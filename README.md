@@ -14,11 +14,11 @@ manufactura.
 
 ## Profesores
 
--Ubaldo García
--Eduardo Barrera
--Pedro Fabián Cárdenas
--Ricardo Ramírez Heredia
--Víctor Hugo Grisales
--Carlos Julio Cortés (Invitado)
+- Ubaldo García
+- Eduardo Barrera
+- Pedro Fabián Cárdenas
+- Ricardo Ramírez Heredia
+- Víctor Hugo Grisales
+- Carlos Julio Cortés (Invitado)
 
 ### Universidad Nacional de Colombia
